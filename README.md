@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-![this-is-me](giphy.gif)
+![this-is-me](me.gif)
 
 ## About me
 - 🌱 I’m currently learning Software development at Microverse
+
+## Skills
+- HTML
+- CSS
+- SCSS
+- Bootsrap
 
 ## How to reach me:
 - Github:[Byabasaija](https://github.com/Byabasaija)
