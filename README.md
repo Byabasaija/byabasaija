@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![this-is-me](me.gif)
+![this-is-me](giphy.gif)
 
 ## About me
 - 🌱 I’m currently learning Software development at Microverse
