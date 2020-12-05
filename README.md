@@ -9,6 +9,7 @@
 - CSS
 - SCSS
 - Bootsrap
+- Ruby
 
 ## How to reach me:
 - Github:[Byabasaija](https://github.com/Byabasaija)
