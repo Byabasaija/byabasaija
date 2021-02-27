@@ -38,8 +38,4 @@
 - Github:[Byabasaija](https://github.com/Byabasaija)
 - Linkedin: [Pascal Byabasaija](https://www.linkedin.com/in/pascal-byabasaija-80578814b/)
 - Twitter: [Pascal](https://twitter.com/byabashaijapoet)
-## Other
-- ⚡ Fun fact:
-
-![funfact](fact.jpg) 
 
