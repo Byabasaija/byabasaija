@@ -17,8 +17,8 @@
   </tr>
 </table>
 
-## About me
-- 🌱 I’m currently learning Software development at Microverse
+## About 
+- Full-stack software developer|Loves the frontend. I write code for humans to understand
 
 ## Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -43,5 +43,4 @@
 ## How to reach me:
 - [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Byabasaija)
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pascal-byabasaija-80578814b/)
-- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/byabashaijapoet)
 
