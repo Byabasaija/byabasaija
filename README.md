@@ -18,7 +18,7 @@
 </table>
 
 ## About 
-- Full-stack software developer|Loves the frontend. I write code for humans to understand
+- Dynamic Full-Stack Software Engineer with over 4 years of hands-on experience in developing robust code for high-volume businesses. An enthusiastic problem-solver and team collaborator, skilled in leveraging analytical skills and a detail-oriented mindset to deliver high-quality software solutions. Proficient in a diverse range of languages, frameworks, and technologies, with a proven track record of mastering new tools and concepts swiftly and effectively.
 
 ## Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
