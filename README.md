@@ -4,15 +4,6 @@
     <td align="center">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=Byabasaija&show_icons=true&theme=dracula" />
     </td>
-    <td align="center">
-      <a href="https://www.pascalbyabasaija.tk/" target="blank">
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="globe.gif" />
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-       
-    </td>
   </tr>
 </table>
 
