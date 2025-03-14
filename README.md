@@ -2,7 +2,7 @@
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Byabasaija&show_icons=true&theme=dracula" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Byabasaija&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </td>
   </tr>
 </table>
