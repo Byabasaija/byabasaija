@@ -11,8 +11,7 @@
         <img src="globe.gif" />
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <br>
-        <strong>Visit my portfolio </strong>
+       
     </td>
   </tr>
 </table>
