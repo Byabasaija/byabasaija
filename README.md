@@ -2,13 +2,14 @@
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=Byabasaija&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api? 
+        username=Byabasaija&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
     </td>
   </tr>
 </table>
 
 ## About 
-- Dynamic Full-Stack Software Engineer with over 4 years of hands-on experience in developing robust code for high-volume businesses. An enthusiastic problem-solver and team collaborator, skilled in leveraging analytical skills and a detail-oriented mindset to deliver high-quality software solutions. Proficient in a diverse range of languages, frameworks, and technologies, with a proven track record of mastering new tools and concepts swiftly and effectively.
+- Dynamic Full-Stack Software Engineer with over 4 years of hands-on experience developing robust code for high-volume businesses. An enthusiastic problem-solver and team collaborator, skilled in leveraging analytical skills and a detail-oriented mindset to deliver high-quality software solutions. Proficient in diverse languages, frameworks, and technologies, with a proven track record of mastering new tools and concepts swiftly and effectively.
 
 ## Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
